@@ -15,7 +15,107 @@
 
 ---
 
-## 📱 Overview
+## � Screenshots
+
+### 🔐 Login Screen
+<div align="center">
+<img src="Screenshots/IMG_20260428_234804.jpg" alt="Login Screen" width="300">
+</div>
+
+The welcoming login screen is the first thing users see when opening the app. It features a clean, modern design with the app's motto "**Collaborate. Track. Achieve.**" Users can quickly sign in using their Google account with a single tap, providing secure OAuth 2.0 authentication without password management.
+
+---
+
+### 📊 Dashboard Hub
+<div align="center">
+<img src="Screenshots/IMG_20260428_234739.jpg" alt="Dashboard" width="300">
+</div>
+
+The main dashboard is your command center! It displays:
+- **Welcome message** personalized with your name
+- **Team name and code** for easy sharing with teammates
+- **Real-time statistics** showing Total Tasks, In Progress, and Completed count
+- **Task filter tabs** (All, To Do, In Progress, Done) for quick navigation
+- **Active task list** with priority indicators (High/Medium/Low), assignees, and due dates
+- **Bottom navigation** to quickly switch between Tasks, Team Members, and Profile
+
+All updates are **real-time** thanks to Firebase—when a teammate marks a task done, you see it instantly!
+
+---
+
+### ➕ Create Task Screen
+<div align="center">
+<img src="Screenshots/IMG_20260428_234718.jpg" alt="Create Task" width="300">
+</div>
+
+Adding new tasks is simple and intuitive! The Create Task form includes:
+- **Task Title** - Give your task a clear name
+- **Description** - Add detailed information about what needs to be done
+- **Priority Levels** - Choose between High (Red), Medium (Yellow), or Low (Green)
+- **Due Date Picker** - Set deadlines to keep the team on track
+- **Assign To** - Delegate tasks to specific team members
+- **Create Task Button** - One-tap to instantly sync with the entire team
+
+The colorful priority indicators make it easy to spot urgent tasks at a glance!
+
+---
+
+### 👥 Team Members Screen
+<div align="center">
+<img src="Screenshots/IMG_20260428_234732.jpg" alt="Team Members" width="300">
+</div>
+
+The Team Members screen shows everyone in your team with:
+- **Team name and unique code** at the top for easy reference
+- **Shareable team code** with a copy button to invite new members
+- **Member list** with circular profile pictures (pulled from Google accounts)
+- **Member roles** - Clear indication of who's an Admin vs regular Member
+- **Email addresses** displayed for easy contact
+
+This is the place to manage your team, see who's on board, and share your team code with new collaborators. No complicated invitations—just share the code!
+
+---
+
+### 👤 My Profile Screen
+<div align="center">
+<img src="Screenshots/IMG_20260428_234725.jpg" alt="My Profile" width="300">
+</div>
+
+The Profile screen helps you manage your account and teams:
+- **User profile card** with circular avatar (from Google account), name, and email
+- **My Teams section** listing all teams you're part of with their team codes
+- **Active team indicator** to show which team you're currently working with
+- **Create Team button** - Start a new team for a different project
+- **Join Team button** - Enter a code to join an existing team
+- **Leave Team option** - Exit teams you're no longer part of
+- **Sign Out button** - Securely log out from your account
+
+Perfect for switching between multiple teams and managing your account settings!
+
+---
+### 📋 Task Details Screen
+<div align="center">
+<img src="Screenshots/IMG_20260428_235259.jpg" alt="Task Details" width="300">
+</div>
+
+The Task Details screen gives you a complete view of any task with all the important information:
+- **Task title** at the top with a back button for easy navigation
+- **Priority badge** (Low/Medium/High) with color coding (Green/Yellow/Red)
+- **Current status** showing the task's current stage
+- **Task metadata** card displaying:
+  - **Assigned To** - Who is responsible for this task
+  - **Due Date** - When the task needs to be completed
+  - **Created By** - Who created the task
+- **Full description** of what needs to be done
+- **Quick status change buttons** with three options:
+  - **To Do** (Gray) - Task not started
+  - **In Progress** (Yellow) - Task is being worked on
+  - **Done** (Green) - Task completed
+  
+One-tap status updates instantly notify all team members about progress!
+
+---
+## �📱 Overview
 
 **Team Task Tracker** is a beautifully designed Android application that enables teams to collaborate seamlessly on task management. Whether you're working on a project with your team or managing daily tasks, this app provides real-time synchronization and an intuitive interface to keep everyone on the same page.
 
