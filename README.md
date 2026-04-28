@@ -295,7 +295,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 About
 
-Built with ❤️ by Rishabh Araj
+Built with ❤️ by Rishabharaj
 
 **GitHub:** [@rishabharaj](https://github.com/rishabharaj)
 
