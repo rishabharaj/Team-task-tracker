@@ -397,7 +397,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Built with ❤️ by Rishabharaj
 
-**GitHub:** [@rishabharaj](https://github.com/rishabharaj)
+**GitHub:** [@rishabharaj](https://github.com/rishabharaj) and [@kanishka](https://github.com/KanishkaJoshi-20)
 
 ---
 
